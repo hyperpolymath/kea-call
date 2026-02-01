@@ -1,4 +1,4 @@
-; SPDX-License-Identifier: AGPL-3.0-or-later
+; SPDX-License-Identifier: PMPL-1.0-or-later
 ; Kea-Call Testing Report - Structured Format
 ; Generated: 2025-12-29
 ; Agent: Claude Code (claude-opus-4-5-20251101)
